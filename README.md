@@ -15,3 +15,7 @@ Baseado no tutorial do site [Algoritmos e Lógica](http://algoritmoselogica.com.
 (durante a disciplina de Programação 
 Orientada a Objetos).
 #
+
+## Banco de Dados
+
+* O arquivo .sql está dentro da pasta mysql do projeto

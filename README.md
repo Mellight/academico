@@ -18,4 +18,9 @@ Orientada a Objetos).
 
 ## Banco de Dados
 
-* O arquivo .sql está dentro da pasta mysql do projeto
+* O arquivo .sql está na raiz do projeto
+#
+
+## Imagens
+
+![Urna - Img 1](https://i.imgur.com/DevM5vV.png)

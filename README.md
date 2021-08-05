@@ -23,4 +23,4 @@ Orientada a Objetos).
 
 ## Imagens
 
-![Urna - Img 1](https://i.imgur.com/DevM5vV.png)
+![Urna - Img 1](https://i.imgur.com/DevM5vVm.png)
